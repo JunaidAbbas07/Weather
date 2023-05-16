@@ -82,6 +82,7 @@ h1 {
     .row{
         display: flex;
         flex-direction: column;
+        overflow-y: scroll;
     }
     .container {
         background: linear-gradient(135deg, #4cd4c9, #5df196);
